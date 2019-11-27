@@ -5,3 +5,4 @@
 - edited bash profile and bashrc files
 - wrote hello world 
 - set up and pushed to github
+- testing
